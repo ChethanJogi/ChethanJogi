@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on - Strengthening my Data Structures & Algorithms skill <br>👯 I'm looking to collaborate on<br>- Open Source Projects<br>🤝 I'm looking for help with<br>- Machine Learning model deployment<br>- Open Source contributions<br>><br>🌱 I'm currently learning - Machine Learning<br> Data Analytics <br>⚡ Fun fact<br>- I love solving coding challenges and enjoy turning raw data into meaningful insights.
+🔭 I'm currently working on - Strengthening my Data Structures & Algorithms skill <br><br>👯 I'm looking to collaborate on<br>- Open Source Projects<br>🤝 I'm looking for help with<br>- Machine Learning model deployment<br>- Open Source contributions<br><br>🌱 I'm currently learning - Machine Learning<br> Data Analytics<br><br>⚡ Fun fact - I love solving coding challenges and enjoy turning raw data into meaningful insights.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/chethan-jogi-4872bb31a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jogichethan33@gmail.com) 
